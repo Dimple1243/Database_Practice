@@ -1,0 +1,21 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "basic node",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "knex": "^2.3.0",
+    "nodemon": "^2.0.20",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divya",
+  "license": "ISC"
+}
